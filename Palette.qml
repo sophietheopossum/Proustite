@@ -20,14 +20,14 @@ Singleton {
     readonly property color textMuted: "#a3959b"
     readonly property color textFaint: "#6e6167"
 
-    // accents
-    readonly property color red: "#e0263c"
+    // accents — one red; the old MinkaMon "glow" (#ff4a5e) and the old
+    // #e0263c both merged into it (Sophie's call, 23/7).
+    readonly property color red: "#ff0000"
     readonly property color redDim: "#8f1e2d"
     readonly property color purple: "#a488c9"
     readonly property color purpleDim: "#4c3a63"
 
     // instrument accents (eDEX-flavoured: MinkaMon, MinkaShot)
-    readonly property color glow: "#ff4a5e"
     readonly property color gaugeDim: "#3a1219"
     readonly property color okGreen: "#7dc98c"
     readonly property color warnAmber: "#e0a026"
