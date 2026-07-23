@@ -2,7 +2,9 @@ pragma Singleton
 import QtQuick
 import Quickshell
 
-// Shadow of the Eternals — the shared Minka palette, named for the spiritual
+// Proustite
+// the shared Minka palette, named for the "ruby silver" mineral: pure
+// red when freshly broken, tarnished black by exposure to light.
 // successor to the Eternal Darkness theme it grew from. High-contrast black
 // and red, purple strictly as a tertiary accent. Every Minka app's
 // services/Theme.qml is a thin facade over this singleton: edit colors here,
